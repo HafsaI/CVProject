@@ -1,0 +1,26 @@
+@import '~antd/dist/antd.css';
+/* .trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+    
+.trigger:hover {
+color: #1890ff;
+} */
+
+.side-bar{
+    background: #5b5b5b;
+    color:white;
+    padding:20px;  
+}
+
+.radios{
+    color:white;
+}
+
+.radio-btns{
+    color:white;
+}
